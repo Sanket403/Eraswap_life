@@ -583,7 +583,6 @@ input:checked + .slider:before {
 	text-align: center;
 	white-space: nowrap;
   height: 100%;
-  display: none;
 }
 
 #css-only-modals:before {
